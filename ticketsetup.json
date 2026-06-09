@@ -1,0 +1,25 @@
+{
+    "1378411525244456960": {
+        "tickets": [
+            {
+                "name": "Test"
+            }
+        ],
+        "category": "1396839834487623842",
+        "supportRole": "<@&1396123830182871182>",
+        "logsRoom": "1404889197579473099",
+        "ownershipButton": true,
+        "reasonActive": true,
+        "welcomeMsg": "Tests",
+        "welcomeImage": "https://cdn.discordapp.com/banners/1296689552093872181/f355156339a872ef7a2f990b925a1927.webp?size=1024"
+    },
+    "1378411525244456960_2": {
+        "categoryId": "1396839834487623842",
+        "supportRoleId": "1396123830182871182",
+        "logsChannelId": "1404889197579473099",
+        "ownershipButton": true,
+        "reasonRequired": true,
+        "welcomeMessage": "test",
+        "welcomeImage": null
+    }
+}
